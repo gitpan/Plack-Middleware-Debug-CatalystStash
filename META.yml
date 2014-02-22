@@ -1,7 +1,7 @@
 ---
 abstract: 'Debug panel to inspect the Catalyst Stash'
 author:
-  - 'n0body <n0body@thisaintnews.com>'
+  - 'Mark Ellis <markellis@cpan.org>'
 build_requires:
   Catalyst::Test: 0
   ExtUtils::MakeMaker: 6.59
@@ -30,7 +30,7 @@ requires:
   Plack::Middleware::Debug: 0
   perl: 5.8.0
 resources:
-  bugtracker: https://github.com/n0body-/plack-middleware-debug-catalyststash/issues
+  bugtracker: https://github.com/markwellis/plack-middleware-debug-catalyststash/issues
   license: http://dev.perl.org/licenses/
-  repository: https://github.com/n0body-/plack-middleware-debug-catalyststash.git
-version: 0.001
+  repository: https://github.com/markwellis/plack-middleware-debug-catalyststash.git
+version: 0.001001
